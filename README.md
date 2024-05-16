@@ -60,7 +60,6 @@ ii. Library Name and Cell Name must be same which you have used for schematic. P
 iii. Check for the position of pin side.Prss OK
 iv. Edit for the shape by Create-Shape-Choose required options to edit.
 ```
-```
 
 Creating the new test cell view
 ```
@@ -81,6 +80,7 @@ g. Select the type and set the specifications and press OK
 h. Execute Output s—to be plotted – Select on Schematic
 i. Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 j. Execute Simulation -- Net list and Run
+
 ```
 
 Simulation Settings
