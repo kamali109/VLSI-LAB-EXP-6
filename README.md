@@ -48,9 +48,9 @@ g) Analog library Vdd, Gnd, Vcc, Vpulse, Vsin
 h) Make the connections by using fixed narrow wire key
 i) Click Check and Save button
 ```
-```
-Creating the Symbol for schematic Cell view
 
+Creating the Symbol for schematic Cell view
+```
 a. In the schematic window, execute Crate – Cell view – From Cell view The cell view from cell view window appears Check Lib Name, Cell Name, From View name must be schematic Press ok
 b. Now Symbol generation form appears. Click Ok If No changes required
 c. A new window with with default symbol is created.
@@ -61,6 +61,7 @@ iii. Check for the position of pin side.Prss OK
 iv. Edit for the shape by Create-Shape-Choose required options to edit.
 ```
 ```
+
 Creating the new test cell view
 ```
 a) Go to CIW window, Execute File-New-Cell view
@@ -81,6 +82,7 @@ h. Execute Output s—to be plotted – Select on Schematic
 i. Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 j. Execute Simulation -- Net list and Run
 ```
+
 Simulation Settings
 
 Setup for transient analysis:
