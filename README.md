@@ -1,5 +1,5 @@
 
-                                    INVERTER SCHEMATIC USING CADENCE
+                           INVERTER SCHEMATIC USING CADENCE
 AIM:
 ```
 To Schematic and Simulate Inverter using CADENCE virtuoso.
