@@ -15,9 +15,10 @@ Procedure for Commands to get into Cadence
     i) tcsh
     ii) source /home/install/cshrc
     iii) virtuoso
+```
 
 Procedure for Schematic simulation using Cadence
-
+```
     Now two windows must open i)virtuoso/command interpreter window ii)”Whats New…"
     Close the 2nd window
     Use 1st window i.e virtuoso window(CIW) for further processing.
@@ -26,14 +27,17 @@ Procedure for Schematic simulation using Cadence
     iii) Create the Symbol for schematic Cell view.
     iv) Create the test Cell view.
     v) Analog simulation by spectre
+```
 
-Procedure for Creating New Library.
+Procedure for Creating New Library
+```
 
 a) File –New – Library
 b) Name : Give name for ur library Ex: VLSILAB , Enable Attach to an existing technology library, Click OK
 c) Attach the library to the technology library gpdk045.Click OK
 Create Schematic Cell view.
-
+```
+```
 a) Go to 1st window i.e virtuoso(CIW)
 b) File-New-Cell view
 c) Setup the new file form, Library: Select the one you a created. Cell : Give the experiment name Ex: Inverter View: Schematic
@@ -43,6 +47,8 @@ f) Go to instance fixed menu or use shortcut key “I” from keypad to go insta
 g) Analog library Vdd, Gnd, Vcc, Vpulse, Vsin
 h) Make the connections by using fixed narrow wire key
 i) Click Check and Save button
+```
+```
 Creating the Symbol for schematic Cell view
 
 a. In the schematic window, execute Crate – Cell view – From Cell view The cell view from cell view window appears Check Lib Name, Cell Name, From View name must be schematic Press ok
@@ -53,8 +59,10 @@ i. Execute Create-Cell view-from cell view
 ii. Library Name and Cell Name must be same which you have used for schematic. Press OK
 iii. Check for the position of pin side.Prss OK
 iv. Edit for the shape by Create-Shape-Choose required options to edit.
+```
+```
 Creating the new test cell view
-
+```
 a) Go to CIW window, Execute File-New-Cell view
 b) Setup the new file form
 Library: Select the one you a created.
@@ -72,8 +80,9 @@ g. Select the type and set the specifications and press OK
 h. Execute Output s—to be plotted – Select on Schematic
 i. Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 j. Execute Simulation -- Net list and Run
-Simulation Settings
 ```
+Simulation Settings
+
 Setup for transient analysis:
 ```
 
